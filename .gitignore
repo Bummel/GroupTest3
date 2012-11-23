@@ -25,3 +25,10 @@ local.properties
 # PDT-specific
 .buildpath
 /build
+
+.settings/
+.classpath
+.project
+WebContent/META-INF/
+WebContent/WEB-INF/
+src/META-INF/
